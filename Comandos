@@ -14,3 +14,4 @@ git add --all // para adicionar todos los archivos modificados. El add prepara l
 generar una version cuando se usa el commit. 
 git merge NombreBranch Agregar archivos desde una branch a la master
 se hace desde la branch master y solo modifica los archivos que cambiaron en la branch a mergear
+el merge solo agrega archivos a la rama, no saca archivos
