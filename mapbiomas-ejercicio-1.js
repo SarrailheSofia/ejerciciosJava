@@ -7,9 +7,22 @@ Map.addLayer(image);
 
 var nota = 'Vamos a imprimir esta nota'
 print(nota)
+
+var image10 = ee.Image(10);
+
+print(image10);
+
 //notas
 //git init
 //git status
-//git add mapbiomas-ejercicio-1.js
-//git commit m-""
+//git add mapbiomas-ejercicio-1.js //Para agregar un archivo al indice
+//git commit -am ""
 //git log
+//git help
+
+//Clase 2
+//git branch --help para ver opciones
+//git branch nombreDeLaRama Crea una rama con ese nombre
+//git checkout NombreBranch para cambiar entre la branch sofi y la master
+//git add --all // para adicionar todos los archivos modificados. El add prepara los archivos para
+//generar una version cuando se usa el commit. 
