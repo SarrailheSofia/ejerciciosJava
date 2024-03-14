@@ -25,4 +25,6 @@ print(image10);
 //git branch nombreDeLaRama Crea una rama con ese nombre
 //git checkout NombreBranch para cambiar entre la branch sofi y la master
 //git add --all // para adicionar todos los archivos modificados. El add prepara los archivos para
-//generar una version cuando se usa el commit. 
+//generar una version cuando se usa el commit.
+//git merge NombreBranch Agregar archivos desde una branch a la master
+//se hace desde la branch master y solo modifica los archivos que cambiaron en la branch a mergear
