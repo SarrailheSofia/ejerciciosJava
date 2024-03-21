@@ -1,8 +1,8 @@
 notas
 git init
 git status
-git add mapbiomas-ejercicio-1.js //Para agregar un archivo al indice
-git commit -am ""
+git add mapbiomas-ejercicio-1.js //Para agregar un archivo a la version
+git commit -am "" // Para guardar la version con un comentario
 git log
 git help
 
